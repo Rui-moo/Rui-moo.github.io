@@ -32,7 +32,7 @@ My research interest includes membrane separation and funcational materials. I h
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Commun 2023</div><img src='images/2023-paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation]('https://Rui-moo.github.io/paper/2023-paper1.pdf')
+[Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation](https://Rui-moo.github.io/paper/2023-paper1.pdf)
 
 Changwei Zhao, Yanjun Zhang, Yuewen Jia, Bojun Li, Wenjing Tang, Chuning Shang, **Rui Mo**, Pei Li, Shaomin Liu, Sui Zhang
 
