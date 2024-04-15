@@ -45,12 +45,23 @@ My research interest includes membrane separation and funcational materials. I h
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* 2023
+  * Certificate of Completion of National University of Singapore (Suzhou) Research institute
+* 2022
+  * The First-Class Scholarship of the China Agricultural University
+* 2021
+  * The First-Class Scholarship of the Changchun University of Technology
+  * Excellence Graduation Thesis Award of the Changchun University of Technology
+* 2020
+  * The First-Class Scholarship of the Changchun University of Technology
+* 2019
+  * The First-Class Scholarship of the Changchun University of Technology
+* 2018
+  * The Second-Class Scholarship of the Changchun University of Technology 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2023.07*, M.S. in the Resources & Environmental Resources, China Agricultural University, Beijing,China. 
+- *2017.09 - 2021.06*, B.S. in the Environment Engineering, Changchun University of Technology, Changchun, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
