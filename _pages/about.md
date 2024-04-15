@@ -41,7 +41,7 @@ My research interest includes membrane separation and funcational materials. I h
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation](https://doi.org/10.1038/s41467-023-36848-8), Zhao, C., Zhang, Y., Jia, Y. et al. **Nat Commun 2023**
 
 # 🎖 Honors and Awards
 * 2023
@@ -63,8 +63,7 @@ My research interest includes membrane separation and funcational materials. I h
 - *2017.09 - 2021.06*, B.S. in the Environment Engineering, Changchun University of Technology, Changchun, China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*
