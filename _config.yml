@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Rui Mo"
 description              : "God bless you"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
