@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Rui Mo"
+  avatar           : "images/ruimo.png"
+  bio              : "China Agricultural University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
