@@ -57,7 +57,7 @@ Changwei Zhao, Yanjun Zhang, Yuewen Jia, Bojun Li, Wenjing Tang, Chuning Shang, 
   * The Second-Class Scholarship of the Changchun University of Technology 
 
 # 📖 Educations
-- *2021.09 - 2023.07*, M.S. in the Resources & Environmental Resources, China Agricultural University, Beijing, China. 
+- *2021.09 - 2023.07*, M.S. in the Resources & Environmental Sciences, China Agricultural University, Beijing, China. 
 - *2017.09 - 2021.06*, B.S. in the Environment Engineering, Changchun University of Technology, Changchun, China. 
 
 # 💬 Invited Talks
