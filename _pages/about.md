@@ -41,7 +41,7 @@ Changwei Zhao, Yanjun Zhang, Yuewen Jia, Bojun Li, Wenjing Tang, Chuning Shang, 
 </div>
 </div>
 
-- [Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation](https://doi.org/10.1038/s41467-023-36848-8), Zhao, C., Zhang, Y., Jia, Y. et al. **Nat Commun 2023**
+- [Polyamide membranes with nanoscale ordered structures for fast permeation and highly selective ion-ion separation](https://doi.org/10.1038/s41467-023-36848-8), Zhao, C., Zhang, Y., Jia, Y. et al. **Nat Commun 2023** [📩](https://Rui-moo.github.io/papers/2023-paper1.pdf)
 
 # 🎖 Honors and Awards
 * 2023
