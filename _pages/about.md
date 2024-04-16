@@ -63,5 +63,5 @@ Changwei Zhao, Yanjun Zhang, Yuewen Jia, Bojun Li, Wenjing Tang, Chuning Shang, 
 # 💬 Invited Talks
 - *2021.06*. 
 
-# 💻 Internships
+# 💻 Experiences
 - *2019.05 - 2020.02*
